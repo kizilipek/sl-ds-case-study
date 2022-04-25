@@ -1,9 +1,9 @@
 # Secretlab Data Science Case Study
 
 Submission Criteria
-Submission Type: Python Notebook (Can be supported by Slides or Dashboards)
-Submit to: Github Repository (link can be shared with (https://github.com/sl-roryt)
-Allotted Time = 7 Days
+- Submission Type: Python Notebook (Can be supported by Slides or Dashboards)
+- Submit to: Github Repository (link can be shared with (https://github.com/sl-roryt)
+- Allotted Time = 7 Days
 ## Preface
 Marketing and new customer accquistion is a huge cost for any e-commerce retailer, it is also one of the most overlooked investments for newer firms.
 
